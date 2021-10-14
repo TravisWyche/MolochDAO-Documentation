@@ -28,5 +28,5 @@
 
 * [Discourse](grant-pipeline-procedures/discourse.md)
 * [Discord](grant-pipeline-procedures/discord.md)
-* [How & When to Put a Proposal On-Chain](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain.md)
+* [Proposal Process](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain.md)
 * [Shares vs Loot Distribution](grant-pipeline-procedures/shares-vs-loot-distribution.md)
