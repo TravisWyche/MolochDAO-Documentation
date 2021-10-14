@@ -1,1 +1,8 @@
-{"styles":{"website":"website.css","pdf":"pdf.css"}}
+{
+    "plugins": ["theme-api"],
+    "pluginsConfig": {
+        "theme-api": {
+            "theme": "dark"
+        }
+    }
+}
