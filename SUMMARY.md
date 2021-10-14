@@ -1,14 +1,14 @@
 # Table of contents
 
-* [Get Started](README.md)
+* [👹 Thee v2 MolochDAO Handbook](README.md)
 
-## The Basics
+## 👁 Vision & Values
 
-* [Spaces](the-basics/spaces.md)
-* [Collections](the-basics/collections.md)
-* [The GitBook editor](the-basics/the-gitbook-editor.md)
-* [Live edit and locked edits](the-basics/live-edit-and-locked-edits.md)
-* [Change requests](the-basics/change-requests.md)
+* [🥩 Manifesto](vision-and-values/manifesto.md)
+* [Original Moloch Ventures Whitepaper](vision-and-values/original-moloch-ventures-whitepaper.md)
+* [Updated MolochDAO Vision](vision-and-values/updated-molochdao-vision.md)
+* [Live edit and locked edits](vision-and-values/live-edit-and-locked-edits.md)
+* [Change requests](vision-and-values/change-requests.md)
 
 ## Publishing
 
