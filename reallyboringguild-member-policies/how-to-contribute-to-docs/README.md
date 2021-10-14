@@ -1,28 +1,8 @@
 # How to Contribute to Docs
 
-### Why contribute to DAOhaus documentation?[#](https://daohaus.club/docs/handbook/contributors/contributors-docs#why-contribute-to-daohaus-documentation)
+### How to contribute to Moloch Docs? <a href="how-to-contribute-to-daohaus-docs" id="how-to-contribute-to-daohaus-docs"></a>
 
-Since DAOs are a relatively new phenomena, there are many concepts, steps and processes that are foreign to new DAOhaus users. In order to encourage more DAO-ing in this world, we need to help more people join and summon DAOs. Your help in improving documentation is crucial here.
-
-Furthermore, the ongoing release of new features by the Magesmiths (core developers) makes it important for us to tell existing users about new features and how to use them. With clear and detailed documentation, we enable DAO users to do good with DAOhaus features to the fullest extent.
-
-Hence, for both new and existing users, documentation is espeically crucial in user onboarding and education.
-
-### How does DAOhaus documentation work?[#](https://daohaus.club/docs/handbook/contributors/contributors-docs#how-does-daohaus-documentation-work) <a href="how-does-daohaus-documentation-work" id="how-does-daohaus-documentation-work"></a>
-
-DAOhaus documentation is split up into 3 sections:
-
-| Section        | Persona                                                                              | Content                                                                                |
-| -------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
-| **Users**      | **General users** of app.daohaus.club                                                | Feature-specific explainers, tutorials and FAQs                                        |
-| **Handbook**   | Users who want to contribute (e.g. Scholar, Supporter, Contributor, Summoner, etc. ) | Discord track-specific explainers, tutorials and FAQs on coordinape, collab.land, etc. |
-| **Developers** | **Developers** who want to find out more about how DAOhaus works                     | Developer-focused documentation                                                        |
-
-![DAOhaus docs structure](https://i.imgur.com/t63VXTL.png)
-
-### How to contribute to DAOhaus Docs?[#](https://daohaus.club/docs/handbook/contributors/contributors-docs#how-to-contribute-to-daohaus-docs) <a href="how-to-contribute-to-daohaus-docs" id="how-to-contribute-to-daohaus-docs"></a>
-
-As the DAOhaus documentation's code lives on Github, you will be required to use Github and Markdown to contribute to documentation.
+As the MolochDAO's documentation's code lives on Github, you will be required to use Github and Markdown to contribute to documentation.
 
 **INFO**
 

@@ -19,8 +19,7 @@
 ## 🙄 ReallyBoringGuild Member Policies
 
 * [Overview](reallyboringguild-member-policies/in-service-not-servitude-to-the-dao.md)
-* [Community](reallyboringguild-member-policies/community.md)
-* [Meetings](reallyboringguild-member-policies/meetings.md)
+* [Community Meetings](reallyboringguild-member-policies/community-meetings.md)
 * [Compensation](reallyboringguild-member-policies/compensation.md)
 * [Sweat Equity](reallyboringguild-member-policies/sweat-equity.md)
 * [How to Contribute to Docs](reallyboringguild-member-policies/how-to-contribute-to-docs/README.md)

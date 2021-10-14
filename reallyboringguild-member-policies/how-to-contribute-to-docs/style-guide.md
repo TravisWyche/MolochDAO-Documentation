@@ -2,21 +2,11 @@
 
 **1. Structure**
 
-DAOhaus documentation is split up into 3 sections:
-
-| Section        | Persona                                                                     | Content                                                |
-| -------------- | --------------------------------------------------------------------------- | ------------------------------------------------------ |
-| **Users**      | **General users** of app.daohaus.club                                       | Feature-specific explainers, tutorials and FAQs        |
-| **Handbook**   | Users who belong to a **Discord track** (e.g. Contributor, Summoner, etc. ) | Discord track-specific explainers, tutorials and FAQsw |
-| **Developers** | **Developers** who want to find out more about how DAOhaus works            | Developer-focused documentation                        |
-
-![DAOhaus docs structure](https://i.imgur.com/t63VXTL.png)
-
 All of the documentation is written in Markdown, a lightweight markup language for creating formatted text using a plain-text-editor.
 
 Here is a nice [CheatSheet](https://ogb.stanford.edu/docs/cheatsheet/#tables) for Markdown that you can use when making changes to the documentation.
 
-If you like, another common tool we use in DAOhaus is [https://hackmd.io/](https://hackmd.io). If you prefer not to adopt the github flow, please share a hackmd with changes in #proof-of-work
+If you like, another common tool we use in MolochDAO is [https://hackmd.io/](https://hackmd.io). If you prefer not to adopt the github flow, please share a hackmd with changes in #proof-of-work
 
 We are using Github Issues to help bring contributors in, ensuring we uphold the integrity and quality of our documentation as we iterate.
 
