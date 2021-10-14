@@ -67,6 +67,8 @@
   * [Proposal Types - Beginner](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/proposal-types-beginner.md)
 * [Proposal Types - Advanced](grant-pipeline-procedures/proposal-types-advanced.md)
 * [Shares vs Loot Distribution](grant-pipeline-procedures/shares-vs-loot-distribution.md)
+* [Annual Report](grant-pipeline-procedures/annual-report.md)
+* [Budget](grant-pipeline-procedures/budget.md)
 
 ## 🌈 Other
 
