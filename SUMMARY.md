@@ -1,8 +1,7 @@
 # Table of contents
 
 * [🩸 Introduction](README.md)
-* [What is Moloch?](what-is-moloch.md)
-* [MolochDAO 101](molochdao-101.md)
+* [🥩 What is Moloch?](what-is-moloch.md)
 
 ## 👁 Vision & Values
 

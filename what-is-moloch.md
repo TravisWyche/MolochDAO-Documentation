@@ -1,8 +1,8 @@
-# What is Moloch?
+# 🥩 What is Moloch?
 
-### Moloch is open-source[#](https://daohaus.club/docs/users/intro-moloch#moloch-is-open-source)
+### Moloch is open-source
 
-Moloch is the simple, open-source DAO framework we use at DAOhaus. Its simplicity is important for 3 reasons:
+Moloch is a simple, open-source DAO framework. Its simplicity is important for 3 reasons:
 
 1. Security (less code, less bugs)
 2. Usability (complex tech but easiest to understand and use)
