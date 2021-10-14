@@ -7,7 +7,6 @@
 * [🥩 Manifesto](vision-and-values/manifesto.md)
 * [Original Moloch Ventures Whitepaper](vision-and-values/original-moloch-ventures-whitepaper.md)
 * [Updated MolochDAO Vision](vision-and-values/updated-molochdao-vision.md)
-* [Live edit and locked edits](vision-and-values/live-edit-and-locked-edits.md)
 * [Change requests](vision-and-values/change-requests.md)
 
 ## Publishing
