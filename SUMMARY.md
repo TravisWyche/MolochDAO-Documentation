@@ -18,9 +18,11 @@
 * [Compensation](reallyboringguild-member-policies/compensation.md)
 * [Sweat Equity](reallyboringguild-member-policies/sweat-equity.md)
 
-## 🧩 v2 Moloch How-Tos
+## 🧩 Moloch 2.0 Operating Manual
 
-* [Page 2](v2-moloch-how-tos/page-2.md)
+* [How-Tos](moloch-2.0-operating-manual/page-2.md)
+* [FAQs](moloch-2.0-operating-manual/faqs.md)
+* [Troubleshooting](moloch-2.0-operating-manual/troubleshooting.md)
 
 ## 🤑 Grant Pipeline Procedures
 
