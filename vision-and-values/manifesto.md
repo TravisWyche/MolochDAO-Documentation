@@ -1,3 +1,2 @@
-# 🥩 Manifesto
+# Manifesto
 
-Main body text

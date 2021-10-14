@@ -1,22 +1,30 @@
 # Table of contents
 
-* [👹 Thee v2 MolochDAO Handbook](README.md)
+* [🩸 Introduction](README.md)
 
 ## 👁 Vision & Values
 
-* [🥩 Manifesto](vision-and-values/manifesto.md)
-* [Original Moloch Ventures Whitepaper](vision-and-values/original-moloch-ventures-whitepaper.md)
-* [Updated MolochDAO Vision](vision-and-values/updated-molochdao-vision.md)
-* [Change requests](vision-and-values/change-requests.md)
+* [Manifesto](vision-and-values/manifesto.md)
+* [Moloch Ventures Whitepaper](vision-and-values/moloch-ventures-whitepaper.md)
+* [Supplement to Whitepaper](vision-and-values/supplement-to-whitepaper.md)
 
-## Publishing
+## ⚖ DAO Member Policies
 
-* [Publishing your content](publishing/publishing-your-content.md)
+* [Code of Conduct?](dao-member-policies/code-of-conduct.md)
 
-## Tips and tricks
+## 🙄 ReallyBoringGuild Member Policies
 
-* [Speed up with quick find](tips-and-tricks/speed-up-with-quick-find.md)
+* [In Service (Not Servitude) to the DAO!](reallyboringguild-member-policies/in-service-not-servitude-to-the-dao.md)
+* [Compensation](reallyboringguild-member-policies/compensation.md)
+* [Sweat Equity](reallyboringguild-member-policies/sweat-equity.md)
 
-## Next steps
+## 🧩 v2 Moloch How-Tos
 
-* [What next?](next-steps/what-next.md)
+* [Page 2](v2-moloch-how-tos/page-2.md)
+
+## 🤑 Grant Pipeline Procedures
+
+* [Discourse](grant-pipeline-procedures/discourse.md)
+* [Discord](grant-pipeline-procedures/discord.md)
+* [How & When to Put a Proposal On-Chain](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain.md)
+* [Shares vs Loot Distribution](grant-pipeline-procedures/shares-vs-loot-distribution.md)
