@@ -1,16 +1,20 @@
 # Table of contents
 
 * [🩸 Introduction](README.md)
+* [MolochDAO 101](molochdao-101.md)
 
 ## 👁 Vision & Values
 
+* [Community First Manifesto](vision-and-values/community-first-manifesto.md)
 * [Manifesto](vision-and-values/manifesto.md)
 * [Moloch Ventures Whitepaper](vision-and-values/moloch-ventures-whitepaper.md)
 * [Supplement to Whitepaper](vision-and-values/supplement-to-whitepaper.md)
 
 ## ⚖ DAO Member Policies
 
-* [Code of Conduct?](dao-member-policies/code-of-conduct.md)
+* [Code of Conduct](dao-member-policies/code-of-conduct.md)
+* [How to Join MolochDAO](dao-member-policies/how-to-join-molochdao.md)
+* [Community Governance](dao-member-policies/community-governance.md)
 
 ## 🙄 ReallyBoringGuild Member Policies
 
