@@ -5,7 +5,6 @@
 
 ## 👁 Vision & Values
 
-* [Community First Manifesto](vision-and-values/community-first-manifesto.md)
 * [Manifesto](vision-and-values/manifesto.md)
 * [Moloch Ventures Whitepaper](vision-and-values/moloch-ventures-whitepaper.md)
 * [Supplement to Whitepaper](vision-and-values/supplement-to-whitepaper.md)
