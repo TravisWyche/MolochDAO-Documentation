@@ -14,3 +14,7 @@ There is also a meeting set strictly for Happy-Hour in the Guild, which we stron
 
 * ReallyBoringGuild Sync, Tuesday at 1PM EST (17:00 UTC)
 
+#### Quarterly Moloch Member Meetings 
+
+Moloch member meetings will occur on a quarterly basis Guild delegates will be required to be present at the member meeting. They will provide an update to Moloch members on research or operational progress. The member delegate tasked with engaging in communities that have provided Moloch DAO with reciprocal grants will provide a brief update of current events and relevant agendas that affect the DAO.
+

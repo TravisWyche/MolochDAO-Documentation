@@ -1,5 +1,13 @@
 # Compensation
 
+#### Payment Requests
+
+* Payment requests should be submitted by 09:00PST on the 6th of the month for the prior month's work. This will include the total number of hours worked in the pay period. It may take up to 7 days after the request is submitted to receive payment. The payout threshold is 1000 DAI or the equivalent in ETH. Contributors that earn less than 1000 DAI will have their payments carried over into the next pay period. In the event that a contributor resigns from the RBG before reaching the 1000 DAI payment threshold they should make note of this status change in their final payment request to avoid delays. 
+* Contributors have the choice to be paid in DAI or ETH. Hourly rates are determined in DAI. The ETH exchange rate is determined by current market values at the time of payment transfer, subject to the volatility of ETH. Changes to payment currency (DAI or ETH) can be made every 3 months. 
+* Payment requests are approved by a member committee that has been delegated to the RBG multi-sig.
+
+###
+
 ### Overview
 
 Each month, DAOhaus (Warcamp) contributors receive three levels of compensation:

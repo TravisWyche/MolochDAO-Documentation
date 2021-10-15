@@ -1,6 +1,6 @@
 # Learn About Web3
 
-**General, Basics & Overview of Web3**[**#**](https://handbook.raidguild.org/docs/learn-about-web3#general-basics--overview-of-web3)
+**General, Basics & Overview of Web3**
 
 1\) [Crypto Reading — Dan Romero](https://danromero.org/crypto-reading/) - Let’s start with a reading list link to a reading list. This has a ton of great fundamental and mostly non tech basics.
 
@@ -8,7 +8,7 @@
 
 3\) [Everything You Need To Know About DAOs](https://foundation.app/blog/everything-you-need-to-know-about-daos) - This article by Foundation gives a primer on Decentralized Autonomous Organizations (DAO). It explains what a DAO is, how it works, and the benefits of participating in a DAO.
 
-**Non Dev Web3 Topics (or applied web3)**[**#**](https://handbook.raidguild.org/docs/learn-about-web3#non-dev-web3-topics-or-applied-web3)
+**Non Dev Web3 Topics (or applied web3)**
 
 1\) [Enter The Metaverse](https://foundation.app/blog/enter-the-metaverse) - This article, also by Foundation, talks about the “metaverse”, first mentioned in Neil Stephenson’s Snow Crash. It explains how the metaverse empowers us to own our data, decentralizes power, and helps free the internet.
 
@@ -22,7 +22,7 @@
 
 6\) [Shapeshift is decentralising](https://erikvoorhees.medium.com/shapeshift-is-decentralizing-639bb4c82fc8) - what does this have to do with learning about web3? Decentralising a real company and turning into a DAO gives you a glimpse on where this is all heading!
 
-**The Web3 Stack**[**#**](https://handbook.raidguild.org/docs/learn-about-web3#the-web3-stack)
+**The Web3 Stack**
 
 1\) [The Web3 Stack (AVC)](https://avc.com/2018/07/the-web-3-stack/) - This article by Fred Wilson talks about decentralized apps (DAPPs). Decentralized applications will allow us to truly take back control of our data. He mentions that in the future, he hopes to see new social media apps where we actually own our data.
 
@@ -30,7 +30,7 @@
 
 3\) [Web3 foundation](https://web3.foundation/about/) - The about page has a great overview of the web 3.0 tech stack. Short, simple and interactive.
 
-**Getting Started With Web3 Development**[**#**](https://handbook.raidguild.org/docs/learn-about-web3#getting-started-with-web3-development)
+**Getting Started With Web3 Development**
 
 1\) [CupOJoseph's (a guild member) Guide to becoming an Ethereum developer](https://hackmd.io/@1LsqLgZ9SFyvmF1L1suBIw/dapp-dev) - A guide that provides some more direction and is less overwhelming than other giant lists, and has most of the resources you need to become a successful Ethereum developer.
 

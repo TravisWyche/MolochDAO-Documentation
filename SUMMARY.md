@@ -1,7 +1,9 @@
 # Table of contents
 
-* [🩸 Introduction](README.md)
-* [🥩 What is Moloch?](what-is-moloch.md)
+## 🐂 Introduction
+
+* [🥩 WTF is Moloch?](README.md)
+* [🩸 WTF is MolochDAO?](introduction/readme.md)
 
 ## 👁 Vision & Values
 
@@ -15,15 +17,19 @@
 * [Shares](dao-member-policies/shares.md)
 * [How to Join MolochDAO](dao-member-policies/how-to-join-molochdao.md)
 * [Community Governance](dao-member-policies/community-governance.md)
+* [Committees (Working Groups)](dao-member-policies/committees-working-groups/README.md)
+  * [Treasury Management](dao-member-policies/committees-working-groups/treasury-management.md)
 
 ## 🙄 ReallyBoringGuild Member Policies
 
 * [ReallyBoringGuild Overview](reallyboringguild-member-policies/reallyboringguild-overview.md)
 * [Guild Overview](reallyboringguild-member-policies/in-service-not-servitude-to-the-dao.md)
-* [Roles](reallyboringguild-member-policies/roles.md)
-* [Community Meetings](reallyboringguild-member-policies/community-meetings.md)
-* [Compensation](reallyboringguild-member-policies/compensation.md)
-* [Sweat Equity](reallyboringguild-member-policies/sweat-equity.md)
+* [Contributing to RBG](reallyboringguild-member-policies/contributing-to-rbg/README.md)
+  * [Roles](reallyboringguild-member-policies/contributing-to-rbg/roles.md)
+  * [Compensation](reallyboringguild-member-policies/contributing-to-rbg/compensation.md)
+  * [Community Meetings](reallyboringguild-member-policies/contributing-to-rbg/community-meetings.md)
+  * [Becoming a MolochDAO Member](reallyboringguild-member-policies/contributing-to-rbg/sweat-equity.md)
+  * [Status Updates](reallyboringguild-member-policies/contributing-to-rbg/status-updates.md)
 * [How to Contribute to Docs](reallyboringguild-member-policies/how-to-contribute-to-docs/README.md)
   * [Style Guide](reallyboringguild-member-policies/how-to-contribute-to-docs/style-guide.md)
 * [Contributor Roles](reallyboringguild-member-policies/contributor-roles/README.md)
@@ -31,6 +37,8 @@
   * [Magesmiths](reallyboringguild-member-policies/contributor-roles/magesmiths.md)
   * [Paladins](reallyboringguild-member-policies/contributor-roles/paladins.md)
   * [Rangers](reallyboringguild-member-policies/contributor-roles/rangers.md)
+* [DAO Assets](reallyboringguild-member-policies/dao-assets.md)
+* [Conflict Resolution](reallyboringguild-member-policies/conflict-resolution.md)
 
 ## 🧩 Moloch 2.0 Operating Manual
 
@@ -56,14 +64,18 @@
 ## 🤑 Grant Pipeline Procedures
 
 * [Proposal Process](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/README.md)
-  * [Proposal Flow](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/proposal-flow.md)
+  * [Grant Schedule](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/grant-schedule.md)
+  * [Proposal Flow - UH](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/proposal-flow-uh.md)
+  * [Proposal Flow - v1hb](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/proposal-flow-v1hb.md)
   * [Proposal Types - Beginner](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/proposal-types-beginner.md)
   * [Proposal Types - Advanced](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/proposal-types-advanced.md)
 * [What We Fund](grant-pipeline-procedures/what-we-fund/README.md)
   * [Research Guilds](grant-pipeline-procedures/what-we-fund/research-guilds.md)
+* [Starting a New Guild](grant-pipeline-procedures/starting-a-new-guild.md)
 * [Receiving a Grant Award](grant-pipeline-procedures/receiving-a-grant-award/README.md)
   * [Overview](grant-pipeline-procedures/receiving-a-grant-award/overview.md)
   * [Shares vs Loot Distribution](grant-pipeline-procedures/receiving-a-grant-award/shares-vs-loot-distribution.md)
+* [Monthly Reports](grant-pipeline-procedures/monthly-reports.md)
 * [Discourse](grant-pipeline-procedures/discourse.md)
 * [Discord](grant-pipeline-procedures/discord/README.md)
   * [Etiquette](grant-pipeline-procedures/discord/etiquette.md)
