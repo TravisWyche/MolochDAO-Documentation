@@ -1,2 +1,15 @@
-# In Service (Not Servitude) to the DAO!
+# Guild Overview
 
+The guild system within Moloch encourages strategic grant making within the DAO and secures funding for the necessary labor required for a high-functioning community. Guilds power the engine of collaboration, funding, and knowledge sharing.
+
+As of now, there are two types of guilds within Moloch DAO: Research guilds & Operational guilds. Guilds are responsible for submitting proposals to the DAO for quarterly budgets.
+
+### 👹_The DAO continuing to fund a guild is a signal of approval that the work the guild is doing is adding value. The guild continuing to apply to the DAO for funding is a signal that the DAO is adding value. _👹
+
+* Upon being awarded a Moloch DAO grant and receiving the corresponding shares, the guild retained autonomy over their award. The guild determines the quantity - if any - of shares that will be burned to provide WETH liquidity for their operations. The guild  determines their own governance protocols, budget distributions, and delegate to participate in soft polling and on-chain voting scenarios. 
+* Operational guilds attend to activities that help improve Moloch DAO as a whole. This includes (but is not limited to) such activities as growing the Moloch DAO ecosystem by iterating on strategy, organizing member meetings and polls, budgeting, community management, etc. 
+* Each operational guild maintains oversight over a specific area of operations within the DAO. Any discrepancy or dispute that may arise between OGs should be resolved between the guilds. A member committee may be assigned or formed to mediate an inter-guild meeting, but does not serve as a judiciary in determining a verdict in such cases. It is the responsibility of members to carefully review and approve OG jurisdiction while they are being founded. 
+* Like research guilds, operational guilds require at least one Moloch DAO member to be active within their ranks, or for the guild to hold at least one share and declare a delegate from within their ranks. 
+* OGs cannot submit research initiatives that reach beyond the purview of their operations, as stated in their initial guild application reviewed by members. If an OG identifies a potential for new research they may coordinate with an existing research guild to disseminate their findings or broadcast a call for the creation of a new guild, but should not dedicate resources awarded for operational activities towards this new research. 
+* The Really Boring Guild is the initial operational guild established in January 2021. More information on the RBG’s activities and how to get involved can be found in Section 3.1. The Really Boring Guild contains a member committee-controlled multisig to fund ad hoc operational work within the RBG. The signers of this multisig are members of Moloch holding at least one share. 
+* New operational guilds will coordinate with members - via their liaison - to determine if it may be appropriate to erect their own multisig operations for the distribution of funds. It may be determined that the operational guild does not require member oversight, in which case they will determine their own financial distributions as an autonomous guild.

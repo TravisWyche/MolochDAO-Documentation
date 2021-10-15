@@ -18,7 +18,9 @@
 
 ## 🙄 ReallyBoringGuild Member Policies
 
-* [Overview](reallyboringguild-member-policies/in-service-not-servitude-to-the-dao.md)
+* [ReallyBoringGuild Overview](reallyboringguild-member-policies/reallyboringguild-overview.md)
+* [Guild Overview](reallyboringguild-member-policies/in-service-not-servitude-to-the-dao.md)
+* [Roles](reallyboringguild-member-policies/roles.md)
 * [Community Meetings](reallyboringguild-member-policies/community-meetings.md)
 * [Compensation](reallyboringguild-member-policies/compensation.md)
 * [Sweat Equity](reallyboringguild-member-policies/sweat-equity.md)
@@ -53,17 +55,21 @@
 
 ## 🤑 Grant Pipeline Procedures
 
+* [Proposal Process](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/README.md)
+  * [Proposal Flow](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/proposal-flow.md)
+  * [Proposal Types - Beginner](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/proposal-types-beginner.md)
+  * [Proposal Types - Advanced](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/proposal-types-advanced.md)
+* [What We Fund](grant-pipeline-procedures/what-we-fund/README.md)
+  * [Research Guilds](grant-pipeline-procedures/what-we-fund/research-guilds.md)
+* [Receiving a Grant Award](grant-pipeline-procedures/receiving-a-grant-award/README.md)
+  * [Overview](grant-pipeline-procedures/receiving-a-grant-award/overview.md)
+  * [Shares vs Loot Distribution](grant-pipeline-procedures/receiving-a-grant-award/shares-vs-loot-distribution.md)
 * [Discourse](grant-pipeline-procedures/discourse.md)
 * [Discord](grant-pipeline-procedures/discord/README.md)
   * [Etiquette](grant-pipeline-procedures/discord/etiquette.md)
   * [Getting Started](grant-pipeline-procedures/discord/getting-started.md)
   * [Channels](grant-pipeline-procedures/discord/channels.md)
   * [Discord Bots](grant-pipeline-procedures/discord/discord-bots.md)
-* [Proposal Process](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/README.md)
-  * [Proposal Flow](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/proposal-flow.md)
-  * [Proposal Types - Beginner](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/proposal-types-beginner.md)
-* [Proposal Types - Advanced](grant-pipeline-procedures/proposal-types-advanced.md)
-* [Shares vs Loot Distribution](grant-pipeline-procedures/shares-vs-loot-distribution.md)
 * [Annual Report](grant-pipeline-procedures/annual-report.md)
 * [Budget](grant-pipeline-procedures/budget.md)
 
