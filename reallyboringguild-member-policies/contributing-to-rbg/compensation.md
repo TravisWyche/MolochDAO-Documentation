@@ -2,59 +2,11 @@
 
 #### Payment Requests
 
-* Payment requests should be submitted by 09:00PST on the 6th of the month for the prior month's work. This will include the total number of hours worked in the pay period. It may take up to 7 days after the request is submitted to receive payment. The payout threshold is 1000 DAI or the equivalent in ETH. Contributors that earn less than 1000 DAI will have their payments carried over into the next pay period. In the event that a contributor resigns from the RBG before reaching the 1000 DAI payment threshold they should make note of this status change in their final payment request to avoid delays. 
-* Contributors have the choice to be paid in DAI or ETH. Hourly rates are determined in DAI. The ETH exchange rate is determined by current market values at the time of payment transfer, subject to the volatility of ETH. Changes to payment currency (DAI or ETH) can be made every 3 months. 
+* Payment requests should be submitted by 09:00PST on the 6th of the month for the prior month's work. This will include the total number of hours worked in the pay period. It may take up to 7 days after the request is submitted to receive payment. The payout threshold is 1000 DAI or the equivalent in ETH. Contributors that earn less than 1000 DAI will have their payments carried over into the next pay period. In the event that a contributor resigns from the RBG before reaching the 1000 DAI payment threshold they should make note of this status change in their final payment request to avoid delays.&#x20;
+* Contributors have the choice to be paid in DAI or ETH. Hourly rates are determined in DAI. The ETH exchange rate is determined by current market values at the time of payment transfer, subject to the volatility of ETH. Changes to payment currency (DAI or ETH) can be made every 3 months.&#x20;
 * Payment requests are approved by a member committee that has been delegated to the RBG multi-sig.
 
-###
-
-### Overview
-
-Each month, DAOhaus (Warcamp) contributors receive three levels of compensation:
-
-1. Base
-2. Bonus
-3. Ownership
-
-**1. Base**
-
-At this compensation level, contributors can select between two tracks:
-
-* commitment compensation, and
-* retroactive compensation
-
-**1A. Commitment Compensation Track**
-
-Commitment compensation is determined by an intersection of _commitment_ and _expected value delivered to DAOhaus_, giving a total monthly base compensation amount (measured in USD).
-
-That USD compensation amount will be payed out in a mix of stablecoins (DAI) and the community token (HAUS).
-
-20% of HAUS tokens received will be immediately available. The remaining 80% will vest linearly over 3 years, with a 1 year cliff.
-
-Contributors may choose their desired mix of DAI and HAUS, within the following constraints:
-
-* Must accept at least 10% HAUS
-* Must accept no more than 40% HAUS
-
-**1B. Retroactive compensation Track**
-
-This is how Warcamp has been compensating contributors to date. At the end of each month, contributors describe the value they’ve delivered to their circle and request an appropriate DAI amount. Other members of that circle then vote on the proposal.
-
-Contributors preferring greater flexibility can select this option, though they will earn less ownership (via the HAUS token) this way than if they made a more consistent commitment.
-
-**2. Bonus**
-
-Through Coordinape, contributors give each other bonuses in the community token HAUS. The DAO may also decide to distribute extra HAUS to outstanding contributions.
-
-This level serves as an intersubjective measure of how engaged a contributor was and how valuable their contributions were during the month. In addition to incentivizing contributions, this measurement can be used retrospectively to help the DAO make decisions about contributors on the compensation track.
-
-* For example, a contributor consistently receiving HAUS bonuses above what their base pay grade (value X commitment) would predict is a good candidate to move up to a high value level.
-
-**3. Ownership**
-
-From the HAUS received as a bonus, each contributor has the option to tribute (stake) up to 100% into the Warcamp DAO in return for additional shares.
-
-* 1 share per 0.1 HAUS
+### (The following from DAOhaus/Warcamps new compensation scheme):
 
 ***
 
@@ -62,9 +14,9 @@ From the HAUS received as a bonus, each contributor has the option to tribute (s
 
 #### Value Level
 
-Levels are based on expected value delivered to DAOhaus. This is a fuzzy concept which does not and should not have a precise definition. It can, however, be measured by one or more of the following depending on the context: `experience, skill, ability, talent, knowledge, etc.`.
+Levels are based on expected value delivered to MolochDAO. This is a fuzzy concept which does not and should not have a precise definition. It can, however, be measured by one or more of the following depending on the context: `experience, skill, ability, talent, knowledge, etc.`.
 
-Contributors self-assess their starting level and level up by contributing more through DAOhaus.
+Contributors self-assess their starting level and level up by contributing more through RBG.
 
 **Level 1: Novice**
 
@@ -73,8 +25,6 @@ For example:
 * New to crypto, web3, and DAOs
 * Some experience within their area(s) of interest
 * Just beginning to gain knowledge
-
-> \[name=Dekan.eth]not sure if novice is needed. Don’t see where someone would be requesting funds without at least level 2. even for non techincal folks. i might even say level 2 is not what we want
 
 **Level 2: Learning**
 
@@ -113,7 +63,7 @@ For example:
 
 #### Commitment Level
 
-Levels are based on the commitment the contributor makes to DAOhaus. Like value, commitment is a fuzzy concept which does not and should not have a precise definition. It can, however, be measured by one or more of the following depending on the context: `time, dedication, focus, prioritization, effort, etc`.
+Levels are based on the commitment the contributor makes to RBG. Like value, commitment is a fuzzy concept which does not and should not have a precise definition. It can, however, be measured by one or more of the following depending on the context: `time, dedication, focus, prioritization, effort, etc`.
 
 Contributors select their own commitment level, as a percentage of the highest level (Full Commitment)
 
@@ -122,9 +72,9 @@ Contributors select their own commitment level, as a percentage of the highest l
 For example,
 
 * Full time: 35-40+ hrs/week
-* DAOhaus is top priority
-* DAOhaus is the main point of focus\*
-* Willing to go above and beyond to make DAOhaus succeed
+* MolochDAO is top priority
+* MolochDAO is the main point of focus\*
+* Willing to go above and beyond to make MolochDAO succeed
 
 **And some examples of lower commitment levels:**
 
@@ -133,7 +83,7 @@ For example,
 For example,
 
 * Half time: \~20 hrs/week
-* DAOhaus is 1st or 2nd priority
+* MolochDAO is 1st or 2nd priority
 * Focus split across a few projects
 
 **Example Level: 15%**
@@ -141,7 +91,7 @@ For example,
 For example,
 
 * Fractional time: 5-10 hrs/week
-* DAOhaus is 3rd, 4th, or even 5th priority
+* MolochDAO is 3rd, 4th, or even 5th priority
 * Focus split across many projects
 
 _\*We encourage contributors to save some time for themselves to explore and collaborate around the greater ecosystem._
@@ -159,30 +109,6 @@ See the [Warcamp Contributor Compensation 2](https://docs.google.com/spreadsheet
 
 ***
 
-### 2. Bonuses
-
-#### Coordinape
-
-Each month a pool of HAUS is funded. Using Coordinape, everyone gets 100 GIVE tokens to distribute around to all other contributors they have directly seen value creation. The pool of HAUS is distributed based on the inter-subjective results of the Coordinape Epoch.
-
-**Monthly bonus pool amount:** ==300 $HAUS==
-
-This is also a lever we can pull as we learn more about what works well. By increasing (or decreasing) the amount of HAUS distributed via Coordinape relative to the amount of HAUS distruted as part of Base compensation, we can acknowledge more (or less) need for intersubjective valuation of contributions.
-
-#### Other
-
-If a contributor is deemed undervalued by the community, the DAO can opt to drop extra rewards to them through a proposal to ensure that all value creation is rewarded appropriately.
-
-### 3. Ownership
-
-**Share Progression System**
-
-Shares in Warcamp act as our DAOhaus XP, reputation, and voting power on Warcamp decisions. Stake your HAUS received through Coordinape into Warcamp DAO for direct power/ownership in Warcamp.
-
-_insert ‘share progression’ from other doc_
-
-***
-
 ### Initial Mechanics
 
 #### Setup
@@ -193,9 +119,8 @@ At genesis, each commitment track contributor fills out a form to set the follow
 
 1. self-assess their Value Level
 2. set a Commitment Level %
-3. select a HAUS payment %
-4. identify the circles they (wish to) contribute to
-5. Sign off on Warcamp / DAOmission mission and values
+3. identify the circles they (wish to) contribute to
+4. Sign off on MolochDAO/RBG mission and values
 
 This process is repeated again by each contributor every 2 months to reassess.
 
@@ -206,9 +131,8 @@ Each commitment track contributor must have a buddy.
 Prior to filling out the self-assessment form, buddies should meet to review and discuss the following:
 
 * Self-assessments
-* Intersubjective community feedback from Coordinape bonuses (especially in comparison to the contributor’s expected bonus)
 * Community health
-* Any other concerns, recognitions, or points of order to raise with Warcamp
+* Any other concerns, recognitions, or points of order to raise with RBG
 
 > More ideas [here 3](https://hackmd.io/TMJGaDFfQRu4nKk4lIvOEQ).
 

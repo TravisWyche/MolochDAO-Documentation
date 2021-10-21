@@ -25,7 +25,7 @@
 * [ReallyBoringGuild Overview](reallyboringguild-member-policies/reallyboringguild-overview.md)
 * [Guild Overview](reallyboringguild-member-policies/in-service-not-servitude-to-the-dao.md)
 * [Contributing to RBG](reallyboringguild-member-policies/contributing-to-rbg/README.md)
-  * [Roles](reallyboringguild-member-policies/contributing-to-rbg/roles.md)
+  * [Roles (obsolete)](reallyboringguild-member-policies/contributing-to-rbg/roles-obsolete.md)
   * [Compensation](reallyboringguild-member-policies/contributing-to-rbg/compensation.md)
   * [Community Meetings](reallyboringguild-member-policies/contributing-to-rbg/community-meetings.md)
   * [Status Updates](reallyboringguild-member-policies/contributing-to-rbg/status-updates.md)
