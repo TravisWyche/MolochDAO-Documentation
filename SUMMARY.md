@@ -14,11 +14,11 @@
 ## ⚖ DAO Member Policies
 
 * [Code of Conduct](dao-member-policies/code-of-conduct.md)
-* [Shares](dao-member-policies/shares.md)
+* [MolochDAO Shares](dao-member-policies/molochdao-shares.md)
 * [How to Join MolochDAO](dao-member-policies/how-to-join-molochdao.md)
 * [Community Governance](dao-member-policies/community-governance.md)
-* [Committees (Working Groups)](dao-member-policies/committees-working-groups/README.md)
-  * [Treasury Management](dao-member-policies/committees-working-groups/treasury-management.md)
+* [Member Working Groups](dao-member-policies/member-working-groups/README.md)
+  * [Treasury Management](dao-member-policies/member-working-groups/treasury-management.md)
 
 ## 🙄 ReallyBoringGuild Member Policies
 
@@ -31,7 +31,9 @@
   * [Becoming a MolochDAO Member](reallyboringguild-member-policies/contributing-to-rbg/sweat-equity.md)
   * [Status Updates](reallyboringguild-member-policies/contributing-to-rbg/status-updates.md)
 * [How to Contribute to Docs](reallyboringguild-member-policies/how-to-contribute-to-docs/README.md)
-  * [Style Guide](reallyboringguild-member-policies/how-to-contribute-to-docs/style-guide.md)
+  * [Style Guide (DAOhaus)](reallyboringguild-member-policies/how-to-contribute-to-docs/style-guide-daohaus.md)
+  * [Style Guide (Yearn)](reallyboringguild-member-policies/how-to-contribute-to-docs/style-guide-yearn.md)
+  * [Working on Docs (Yearn)](reallyboringguild-member-policies/how-to-contribute-to-docs/working-on-docs-yearn.md)
 * [Contributor Roles](reallyboringguild-member-policies/contributor-roles/README.md)
   * [Alchemists](reallyboringguild-member-policies/contributor-roles/alchemists.md)
   * [Magesmiths](reallyboringguild-member-policies/contributor-roles/magesmiths.md)
@@ -65,6 +67,7 @@
 
 * [Proposal Process](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/README.md)
   * [Grant Schedule](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/grant-schedule.md)
+  * [Proposal Process](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/proposal-process.md)
   * [Proposal Flow - UH](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/proposal-flow-uh.md)
   * [Proposal Flow - v1hb](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/proposal-flow-v1hb.md)
   * [Proposal Types - Beginner](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/proposal-types-beginner.md)

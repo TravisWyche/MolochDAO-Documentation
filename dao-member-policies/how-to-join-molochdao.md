@@ -3,18 +3,18 @@
 You can join MetaCartel DAO through several means:
 
 1. Pledge 100 wETH:\
-   [DAOhaus 100](https://app.daohaus.club/dao/0x64/0xb152b115c94275b54a3f0b08c1aa1d21f32a659a)
+   [Visit MolochDAO to pledge](https://app.daohaus.club/dao/0x1/0x519f9662798c2e07fbd5b30c1445602320c5cf5b)
 2. Share your proposal here & request sponsorship:\
-   [🏀 DAO Membership Proposals thread 261](https://forum.metacartel.org/t/dao-membership-proposals-thread/51)
+   [Visit the MolochDAO Discourse forum](https://forum.daohaus.club/c/moloch-rises)
 3. Get DAO membership via a grant from MolochDAO:\
-   [🏦 \[READ ME\] How to submit a funding proposal GUIDE \[READ ME\]](https://forum.metacartel.org/t/guide-how-to-post-a-funding-proposal/74)
-4. Get involved and do work for the DAO to earn your way in **(read more below)**
+   How to submit a funding proposal
+4.  Get involved and do work for the DAO to earn your way in:
 
-***
+    Contact a member of the ReallyBoringGuild to discuss what you can offer
 
 **How do you work your way in?**
 
-MolochDAO rewards DAO membership of 1 share to those who have shown an extraordinary effort in contributing to the Moloch ecosystem. This path relies on one’s own initiative and drives to get shit done and prove yourself via blood, sweat, and tears.
+MolochDAO rewards DAO membership of 1 share to those who have shown an extraordinary effort in contributing to the Moloch ecosystem. This path relies on one’s own initiative and drive to get shit done and prove yourself via blood, sweat, and tears.
 
 * [Blog post on how to work ones way into the DAO 296](https://medium.com/@AlexMasmej/why-and-how-i-joined-metacartel-4ebebbca555e)
 * [Highlight of Alex Masmej member of MetaCartel 115](https://medium.com/metacartel/meet-alex-masmejean-the-metacartel-dropout-41a13d3cd6c3)
