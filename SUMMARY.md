@@ -9,7 +9,7 @@
 
 * [Manifesto](vision-and-values/manifesto.md)
 * [Moloch Ventures Whitepaper](vision-and-values/moloch-ventures-whitepaper.md)
-* [Supplement to Whitepaper](vision-and-values/supplement-to-whitepaper.md)
+* [Whitepaper Postscript](vision-and-values/supplement-to-whitepaper.md)
 
 ## ⚖ DAO Member Policies
 
