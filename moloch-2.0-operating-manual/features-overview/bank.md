@@ -1,8 +1,8 @@
 # Bank
 
-### Bank Overview[#](https://daohaus.club/docs/users/bank#bank-overview)
+### Bank Overview
 
-The Bank is your DAO's bank account, which supports ERC-20 tokens and ERC-721 NFTs.
+The Bank is MolochDAO's bank account, which supports ERC-20 tokens and ERC-721 NFTs.
 
 ![](https://i.imgur.com/KwISu59.jpg)
 
@@ -10,13 +10,9 @@ If your Bank Vault holds NFTs, there will be a gallery to view all your DAO's NF
 
 ![](https://i.imgur.com/NbqzU7U.jpg)
 
-The Bank Vault only supports ERC-20 tokens, so if you are going to be receiving native tokens such as ETH, MATIC and XDAI on the respective networks, you will need to:
+The Bank Vault only supports ERC-20 tokens, so if you are going to be receiving native tokens such as ETH, you will need to get senders to wrap the tokens before sending. RaidGuild built [an excellent tool](https://wrapeth.com) just for this purpose.
 
-* Get senders to wrap the tokens before sending (e.g. WETH, WXDAI, WMATIC)
-* Install our Wrap N Zap Boost which automatically wraps tokens for you
-* Hold native tokens in a Minion
-
-### How Ownership Works[#](https://daohaus.club/docs/users/bank#how-ownership-works) <a href="how-ownership-works" id="how-ownership-works"></a>
+### How Ownership Works <a href="how-ownership-works" id="how-ownership-works"></a>
 
 All members share direct ownership of the bank based on their Shares and/or Loot in relation to one another. Shares grant **voting power** as well as a claim to the Bank funds, whereas Loot only grants you rights to the funds in the Bank.
 
