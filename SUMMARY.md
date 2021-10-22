@@ -32,13 +32,12 @@
   * [Coordinape](https://docs.coordinape.com)
 * [How to Contribute to Docs](reallyboringguild-member-policies/how-to-contribute-to-docs/README.md)
   * [Working on Docs](reallyboringguild-member-policies/how-to-contribute-to-docs/working-on-docs-yearn.md)
-  * [Style Guide](reallyboringguild-member-policies/how-to-contribute-to-docs/style-guide.md)
+  * [Style Guide](reallyboringguild-member-policies/how-to-contribute-to-docs/style-guide-daohaus.md)
 * [DAO Assets](reallyboringguild-member-policies/dao-assets.md)
 * [Conflict Resolution](reallyboringguild-member-policies/conflict-resolution.md)
 
 ## 🧩 Moloch 2.0 Operating Manual
 
-* [Why DAOs?](moloch-2.0-operating-manual/why-daos.md)
 * [Moloch v2 TL;DR](moloch-2.0-operating-manual/moloch-v2-tl-dr.md)
 * [Features Overview](moloch-2.0-operating-manual/features-overview/README.md)
   * [Bank](moloch-2.0-operating-manual/features-overview/bank.md)

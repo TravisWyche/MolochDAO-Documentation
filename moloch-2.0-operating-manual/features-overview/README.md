@@ -1,14 +1,10 @@
 # Features Overview
 
-DAOhaus is currently available on Mainnet, xDAI, Polygon and Aribtrum. As a DAO summoner, here are the DAOhaus features that should matter to you.
-
-> For more detailed explanations on various DAOhaus features, you can check out our Features explainers in our [user docs here](https://daohaus.club/docs/users/membership).
-
-### Members, Shares and Loot[#](https://daohaus.club/docs/handbook/summoners/summoners-daohaus-features#members-shares-and-loot) <a href="members-shares-and-loot" id="members-shares-and-loot"></a>
+### Members, Shares and Loot <a href="members-shares-and-loot" id="members-shares-and-loot"></a>
 
 DAOhaus helps you manage stakeholders within your DAOs (i.e. **Members**). **Members** are people or organisations that own **Shares** and **Loot** in your DAO. **Members** can own both **Shares** and/or **Loot**.
 
-![](https://daohaus.club/assets/images/ua_memberview-6a1d062eac0e1cd8c997748e28ef4cbc.png)
+![](https://daohaus.club/assets/images/ua\_memberview-6a1d062eac0e1cd8c997748e28ef4cbc.png)
 
 > When a **Member** owns **Shares**, they have an economic share of the funds in the DAO's **Bank**, as well as voting rights in the DAO's **Proposals**.
 
@@ -48,7 +44,7 @@ For more information on Proposals, please refer to the [Proposals explainer here
 
 The **Bank** holds all the DAO funds, which include ERC-20 (excluding native tokens such as ETH, xDAI, MATIC on the respective chains) and ERC-721 NFTs.
 
-![](https://daohaus.club/assets/images/bank_screenshot-e4b311ca97b1e385b05b9fd906169a6c.png)
+![](https://daohaus.club/assets/images/bank\_screenshot-e4b311ca97b1e385b05b9fd906169a6c.png)
 
 > Native tokens must be wrapped first before being sent to the Bank. Alternatively, DAOs can set up a Minion that allows the holding of native tokens.
 
