@@ -16,13 +16,13 @@ We use **US English** in our documentation
 
 **3. Commonly troublesome words**
 
-| Term          | What it refers to?                         | Not how we spell it |
-| ------------- | ------------------------------------------ | ------------------- |
-| DAO           | Decentralised autonomous organisations     | dao                 |
-| DAOhaus       | The DAOhaus platform, community in general | DAOHaus, DAO Haus   |
-| UberHaus      | DAO of DAOs, governing DAOhaus             | Uberhaus            |
-| Decentralized | Spread out, not concentrated               | Decentralised       |
-| ""            | _definition_                               | ""                  |
+| Term          | What it refers to?                     | Not how we spell it |
+| ------------- | -------------------------------------- | ------------------- |
+| DAO           | Decentralised autonomous organisations | dao                 |
+| MolochDAO     | The MolochDAO community in general     | Moloch, Moloch      |
+| UberHaus      | DAO of DAOs, governing DAOhaus         | Uberhaus            |
+| Decentralized | Spread out, not concentrated           | Decentralised       |
+| ""            | _definition_                           | ""                  |
 
 If there are common phrases or terms you do not understand that need to be written or contributed on, check out our [glossary](https://daohaus.club/docs/users/glossary)!
 

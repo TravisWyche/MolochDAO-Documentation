@@ -32,8 +32,7 @@
   * [Coordinape](https://docs.coordinape.com)
 * [How to Contribute to Docs](reallyboringguild-member-policies/how-to-contribute-to-docs/README.md)
   * [Working on Docs](reallyboringguild-member-policies/how-to-contribute-to-docs/working-on-docs-yearn.md)
-  * [Style Guide (DAOhaus)](reallyboringguild-member-policies/how-to-contribute-to-docs/style-guide-daohaus.md)
-  * [Style Guide (Yearn)](reallyboringguild-member-policies/how-to-contribute-to-docs/style-guide-yearn.md)
+  * [Style Guide](reallyboringguild-member-policies/how-to-contribute-to-docs/style-guide.md)
 * [DAO Assets](reallyboringguild-member-policies/dao-assets.md)
 * [Conflict Resolution](reallyboringguild-member-policies/conflict-resolution.md)
 
