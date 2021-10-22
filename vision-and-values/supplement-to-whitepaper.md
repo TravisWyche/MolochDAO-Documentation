@@ -19,3 +19,5 @@ We offer an alternative vision of automation, encompassing general AI/AGI to mor
 First, we must win the race. Second, we must destroy the race. How might we resolve this internal paradox infecting MolochDAO and the entire web3 ecosystem?
 
 MolochDAO will allocate and distribute funding to support explorations in both directions simultaneously, ie: the race to the bottom to avoid the multipolar traps we are entrapped into playing and to fuel the fire of hope that we might still design an altruistic game that does not result in Moloch (the god or the DAO) consuming the world, becoming an earth-scale computational paper clip machine, or manifesting any other form of grotesque, absurd, and avoidable coordination failures.
+
+![](https://media.giphy.com/media/l1IYav3XvHjYOF2yA/giphy.gif)

@@ -19,11 +19,11 @@
 * [Community Governance](dao-member-policies/community-governance.md)
 * [Member Working Groups](dao-member-policies/member-working-groups/README.md)
   * [Treasury Management](dao-member-policies/member-working-groups/treasury-management.md)
+  * [Reciprocal Grant Delegates](dao-member-policies/member-working-groups/reciprocal-grant-delegates.md)
 
 ## 🙄 ReallyBoringGuild Member Policies
 
 * [ReallyBoringGuild Overview](reallyboringguild-member-policies/reallyboringguild-overview.md)
-* [Guild Overview](reallyboringguild-member-policies/in-service-not-servitude-to-the-dao.md)
 * [Contributing to RBG](reallyboringguild-member-policies/contributing-to-rbg/README.md)
   * [Roles](reallyboringguild-member-policies/contributing-to-rbg/roles-obsolete.md)
   * [Compensation](reallyboringguild-member-policies/contributing-to-rbg/compensation.md)

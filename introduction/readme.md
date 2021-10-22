@@ -8,4 +8,4 @@ The impact of Moloch as a DAO in servitude to Ethereum will be accelerated by fu
 
 This handbook illustrates the relationships and interdependencies of the key appendages of the Moloch DAO beast. The primary operational entities are distinguished between committees of DAO members and guilds that orchestrate cooperative efforts with non-members.
 
-\
+![](https://media.giphy.com/media/1XPQ9XARDUr04/giphy.gif)

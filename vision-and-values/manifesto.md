@@ -1,7 +1,5 @@
 # Manifesto
 
-
-
 ### What Moloch is _not_
 
 1. **Moloch is not a company.** It does not have a board. There is no CEO, there is no team of managers. There is no room for bureaucrats.
@@ -15,3 +13,5 @@
 2. **Moloch stands for public goods. **Ethereum is a digital public good that will someday facilitate protecting and nurtering our material public goods. Ethereum is the gwei.
 3. **Moloch is punk as fuck.** Kill yr idols, practice careful and critical civil disobedience, just say no to degenerates. We can take a punch to the face and still remain optimistic that we can manifest this world to be better, much better.&#x20;
 4. **Moloch is constantly evolving.** What MolochDAO is today, is not be what it is tomorrow. (If it is we are failing.) What you do after reading this may change Moloch forever. It’s up to you. 🤘🏽👹🤘🏽
+
+![](https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif)

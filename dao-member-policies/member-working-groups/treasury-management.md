@@ -1,11 +1,11 @@
+---
+description: Copied from v1 handbook
+---
+
 # Treasury Management
 
-If Moloch DAO awards a grant to a project that later launches a token, the DAO will welcome the generous distribution of tokens to a Moloch DAO reciprocal grant multi-sig. The DAO champions reciprocity between all entities operating upon the Ethereum blockchain as this behavior fosters financial sustainability and stability for the entire ecosystem.
+If MolochDAO awards a grant to a project that later launches a token, the DAO will welcome the generous distribution of tokens to a MolochDAO reciprocal grant multi-sig. The DAO champions reciprocity between all entities operating upon the Ethereum blockchain as this behavior fosters financial sustainability and stability for the entire ecosystem.
 
 Moloch DAO currently lacks an adequate treasury committee or guild tasked with managing the assets accumulated from reciprocal grants and replenishing the DAO treasury. Members are encouraged to consider the best way to attend to this need, either as a member committee overseeing a DAO fund multi-sig, through the creation of a new operational guild that stewards the collective funds, or some combination of the two.
 
-However it is envisioned, this entity must manage the multi-sig wallet(s) that receive community token distributions.
-
-If a team was awarded a grant from Moloch DAO and is considering providing a reciprocal grant to the DAO, the following protocol is recommended: If it is for an xDAI-based asset, it should be dropped to the following wallet: \[tbd] If it is for an Ethereum-based asset, it should be dropped to the following wallet: \[tbd] 4.2.1 Reciprocal Grant Delegates Some communities distributing reciprocal grants to Moloch DAO may request our participation in their dapp/protocol’s governance. In such cases, the DAO must elect a delegate to serve as the Moloch DAO representative in their governance proceedings, to maintain relations between the two parties, and to vote on behalf of the interests of Moloch DAO. A delegate may be an individual, a self-organized member committee, or a guild. If a group shares in the responsibilities of community relations they must still designate an individual to be held responsible for conveying essential information back to the DAO during monthly updates.
-
-To incentivize more Moloch members to serve as delegates, delegates will be compensated 150 DAI/hr for their delegate duties. The delegate may be compensated via the reciprocal grant received by the DAO (tokens subject to current market value) or from a grant approved to an operational guild like RBG that is assigned this task. Delegates will be responsible for providing updates in the Moloch Monthly related to their activities and votes in the ecosystem.
+However it is envisioned, this entity must manage a multi-sig wallet or sub-DAO to receive community token distributions.

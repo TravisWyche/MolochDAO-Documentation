@@ -14,4 +14,4 @@ Moloch was popularized due to its Minimum Viable DAO design and the advent of â€
 
 The TL;DR of Moloch V2 is that it allows for an optimized treasury and new Proposal Types. Moloch V2 can hold a variety of ERC20 tokens, and allows for anyone (including those without shares) to make a proposal to the DAO.
 
-> For more technical deep-dive into the smart contracts that power these DAOs, head over to [docs](https://daohaus.club/docs/devs)
+![](https://media.giphy.com/media/Lr9Y5rWFIpcsTSodLj/giphy.gif)
