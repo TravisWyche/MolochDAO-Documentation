@@ -1,7 +1,3 @@
----
-description: gsejhigjsjgos
----
-
 # Glossary
 
 A running list of Raid Guild nomenclature. Always evolving, forever in progress…
